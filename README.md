@@ -15,7 +15,7 @@ Please refer to this [Google presentation](https://docs.google.com/presentation/
 - Can also serve as a portfolio for your awesome projects
 
 ## Git Workflow
-These are commands you must know/be comfortable with when working with Git. 
+These are the steps of Git you must know/be comfortable with. 
 
 1. Edit all the files you want
 2. Add your changes
