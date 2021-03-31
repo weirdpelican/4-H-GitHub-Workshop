@@ -1,3 +1,5 @@
+In this worksheet, we hope you will gain some practice with Visual Studio Code, GitHub, and with some basics of using git.
+
 Part 1: TODOs on GitHub.com
 
 Task 1: Under this line, write a random message below
@@ -5,3 +7,17 @@ Task 1: Under this line, write a random message below
 Task 2: Under this line, describe what git and GitHub are
 
 Task 3: Commit your changes
+
+
+Part 2: TODOs on Visual Studio Code (VSC) and Pushing Changes From VSC
+
+Task 4: What are the 3 steps in the git workflow? Describe how you would go through the steps on VSC
+
+Task 5: Push your changes to GitHub from VSC 
+
+
+Part 3: TODOs on VSC and Pushing Changes From GitHub Desktop
+
+Task 6: What does 'git clone' do? 
+
+Task 7: Push your changes to GitHub using GitHub Desktop
