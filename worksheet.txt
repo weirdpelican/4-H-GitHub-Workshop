@@ -4,7 +4,7 @@ If you ever need help, please refer back to the Google presentation and the READ
 Part 1: TODOs on GitHub.com
 
 Task 1: Under this line, write a random message below
-Hello! I hope you have a great day ^_^ 
+Hello! I hope you have a great day ^_^
 
 Task 2: Under this line, describe what git and GitHub are
 
@@ -15,6 +15,7 @@ Task 3: Commit your changes
 Part 2: TODOs on Visual Studio Code (VSC) and Pushing Changes From VSC
 
 Task 4: What are the 3 steps in the git workflow? Describe how you would go through the steps on VSC
+The 3 steps in the git workflow are add, commit, and push.
 
 Task 5: Push your changes to GitHub from VSC 
 
