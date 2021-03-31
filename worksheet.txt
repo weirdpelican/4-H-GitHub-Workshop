@@ -1,1 +1,7 @@
+Part 1: TODOs on GitHub.com
 
+Task 1: Under this line, write a random message below
+
+Task 2: Under this line, describe what git and GitHub are
+
+Task 3: Commit your changes
