@@ -1,4 +1,5 @@
 In this worksheet, we hope you will gain some practice with Visual Studio Code, GitHub, and with some basics of using git.
+If you ever need help, please refer back to the Google presentation and the README.md
 
 Part 1: TODOs on GitHub.com
 
@@ -18,6 +19,6 @@ Task 5: Push your changes to GitHub from VSC
 
 Part 3: TODOs on VSC and Pushing Changes From GitHub Desktop
 
-Task 6: What does 'git clone' do? 
+Task 6: What is cloning a repository?
 
 Task 7: Push your changes to GitHub using GitHub Desktop
