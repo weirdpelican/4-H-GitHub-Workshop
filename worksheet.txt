@@ -4,7 +4,7 @@ If you ever need help, please refer back to the Google presentation and the READ
 Part 1: TODOs on GitHub.com
 
 Task 1: Under this line, write a random message below
-Hello! I hope you have a great day ^_^
+Hello! I hope you have a great day ^_^ 
 
 Task 2: Under this line, describe what git and GitHub are
 
